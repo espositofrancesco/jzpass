@@ -1,2 +1,2 @@
-# zpass
+# jzpass
 A simple password manager
